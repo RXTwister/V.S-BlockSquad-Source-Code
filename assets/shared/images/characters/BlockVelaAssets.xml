@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockVelaAssets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockVela_Down0000" x="0" y="0" width="269" height="643" frameX="0" frameY="0" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0001" x="0" y="0" width="269" height="643" frameX="0" frameY="0" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0002" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0003" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0004" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0005" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0006" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0007" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0008" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0009" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0010" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Down0011" x="269" y="0" width="266" height="637" frameX="-4" frameY="-6" frameWidth="270" frameHeight="643"/>
+	<SubTexture name="BlockVela_Idle0000" x="535" y="0" width="275" height="656"/>
+	<SubTexture name="BlockVela_Idle0001" x="810" y="0" width="261" height="652" frameX="-9" frameY="-4" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0002" x="810" y="0" width="261" height="652" frameX="-9" frameY="-4" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0003" x="1071" y="0" width="253" height="649" frameX="-14" frameY="-7" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0004" x="1071" y="0" width="253" height="649" frameX="-14" frameY="-7" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0005" x="1324" y="0" width="250" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0006" x="1324" y="0" width="250" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0007" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0008" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0009" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0010" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0011" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0012" x="0" y="656" width="242" height="646" frameX="-17" frameY="-10" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0013" x="242" y="656" width="243" height="645" frameX="-17" frameY="-11" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0014" x="242" y="656" width="243" height="645" frameX="-17" frameY="-11" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0015" x="485" y="656" width="245" height="644" frameX="-17" frameY="-12" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0016" x="485" y="656" width="245" height="644" frameX="-17" frameY="-12" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0017" x="730" y="656" width="247" height="645" frameX="-17" frameY="-11" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0018" x="730" y="656" width="247" height="645" frameX="-17" frameY="-11" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0019" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0020" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0021" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0022" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Idle0023" x="1574" y="0" width="249" height="648" frameX="-16" frameY="-8" frameWidth="275" frameHeight="656"/>
+	<SubTexture name="BlockVela_Left0000" x="977" y="656" width="287" height="648" frameX="-9" frameY="-1" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0001" x="977" y="656" width="287" height="648" frameX="-9" frameY="-1" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0002" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0003" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0004" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0005" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0006" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0007" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0008" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0009" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0010" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Left0011" x="1264" y="656" width="295" height="649" frameX="0" frameY="0" frameWidth="296" frameHeight="649"/>
+	<SubTexture name="BlockVela_Right0000" x="1559" y="656" width="311" height="656" frameX="0" frameY="-2" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0001" x="1559" y="656" width="311" height="656" frameX="0" frameY="-2" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0002" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0003" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0004" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0005" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0006" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0007" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0008" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0009" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0010" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Right0011" x="0" y="1312" width="318" height="658" frameX="-1" frameY="0" frameWidth="319" frameHeight="658"/>
+	<SubTexture name="BlockVela_Up0000" x="318" y="1312" width="251" height="676" frameX="-1" frameY="-6" frameWidth="256" frameHeight="682"/>
+	<SubTexture name="BlockVela_Up0001" x="318" y="1312" width="251" height="676" frameX="-1" frameY="-6" frameWidth="256" frameHeight="682"/>
+	<SubTexture name="BlockVela_Up0002" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0003" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0004" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0005" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0006" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0007" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0008" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0009" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0010" x="569" y="1312" width="256" height="682"/>
+	<SubTexture name="BlockVela_Up0011" x="569" y="1312" width="256" height="682"/>
+</TextureAtlas>
